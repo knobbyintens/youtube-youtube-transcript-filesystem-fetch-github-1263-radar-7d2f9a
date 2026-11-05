@@ -1,0 +1,50 @@
+# Quarterly Observability Tech Radar — OBS-RADAR-Q3-26
+
+You are the platform enablement analyst at Larkspur Cloud. The observability guild keeps a curated playlist of conference recordings that the team studies every quarter. Prepare this quarter's observability technology radar from that playlist and publish it to the team repository.
+
+- Playlist: https://www.youtube.com/playlist?list=PLj6h78yzYM2MTQGJq9D6BrbGHwJ0gjOXX
+- Cycle code: OBS-RADAR-Q3-26
+
+The repository coordinates are in `radar_config.json` in your workspace. The approved watchlist taxonomy for this cycle is stored in the team repository at `radar/watchlist.json`. Only technologies on that watchlist are in scope for the radar.
+
+## Coverage rule
+
+A video *covers* a technology when any of that technology's match terms appears (case-insensitive substring) in the video's title. Only the title counts as evidence, not the description.
+
+For every watchlist technology that is covered by at least one video:
+
+- `mention_count` is the number of distinct videos covering it.
+- Ring: **Adopt** when `mention_count >= 4`; **Trial** when `mention_count` is 2 or 3; **Assess** when `mention_count` is exactly 1.
+- Technologies with zero coverage are left out of the radar entirely.
+- `primary_video` is the covering video with the longest duration; if two covering videos have equal duration, the one that appears earlier in the playlist wins.
+- `sources` must list every covering video for the technology, each with its exact video id, exact title, duration in whole seconds, and an `evidence` string. The `evidence` must be an exact excerpt of that video's title (same characters, same case) and must contain one of the technology's match terms.
+
+Playlist position order matters when choosing the primary video, so inspect the whole playlist rather than a sample of it.
+
+## Deliverables
+
+1. Write `observability_radar.json` in your workspace with this structure:
+
+```json
+{
+  "cycle": "OBS-RADAR-Q3-26",
+  "playlist_id": "PLj6h78yzYM2MTQGJq9D6BrbGHwJ0gjOXX",
+  "entries": [
+    {
+      "technology": "<watchlist name>",
+      "ring": "Adopt|Trial|Assess",
+      "mention_count": 3,
+      "primary_video": {"video_id": "...", "title": "...", "duration_seconds": 900},
+      "sources": [
+        {"video_id": "...", "title": "...", "duration_seconds": 870, "evidence": "<exact excerpt of the title>"}
+      ]
+    }
+  ]
+}
+```
+
+2. Commit the very same JSON object to the team repository at `radar/observability_radar.json`.
+
+3. For every technology whose ring is Adopt or Trial, open an issue in the team repository with the title `[Radar] <Ring>: <Technology name>` (for example `[Radar] Trial: Prometheus`). The issue body must include the primary video URL `https://www.youtube.com/watch?v=<primary_video_id>`, the mention count, and a one-line adoption rationale. Technologies in the Assess ring do not get an issue.
+
+All business data — playlist contents, watchlist, repository — must be read and written through the available tools. Earlier public audit snapshots of this review may exist; they are historical, may be incomplete or out of date, and must not be treated as the source of truth.
