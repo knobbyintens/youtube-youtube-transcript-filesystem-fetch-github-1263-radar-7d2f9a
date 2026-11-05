@@ -1,0 +1,246 @@
+{
+  "cycle": "OBS-RADAR-Q3-26",
+  "playlist_id": "PLj6h78yzYM2MTQGJq9D6BrbGHwJ0gjOXX",
+  "entries": [
+    {
+      "technology": "Datadog",
+      "ring": "Trial",
+      "mention_count": 3,
+      "primary_video": {
+        "video_id": "289rsaYNLOA",
+        "title": "OpenTelemetry GenAI in Practice: What the Spec Says Vs. What You Actually See - Zach Groves, Datadog",
+        "duration_seconds": 1434
+      },
+      "sources": [
+        {
+          "video_id": "vI9qbSkpdZM",
+          "title": "Sponsored Keynote: Datadog - Every Byte Counts: How Protocol Design Shapes the Cost... Amanda Sopkin",
+          "duration_seconds": 390,
+          "evidence": "ed Keynote: Datadog - Every Byte Counts: How Protocol Desig"
+        },
+        {
+          "video_id": "e7_C9Q1yf48",
+          "title": "Show Me the Receipts: A Forensic Hunt for Observability - Mostafa Radwan, Datadog",
+          "duration_seconds": 1145,
+          "evidence": "afa Radwan, Datadog"
+        },
+        {
+          "video_id": "289rsaYNLOA",
+          "title": "OpenTelemetry GenAI in Practice: What the Spec Says Vs. What You Actually See - Zach Groves, Datadog",
+          "duration_seconds": 1434,
+          "evidence": "ach Groves, Datadog"
+        }
+      ]
+    },
+    {
+      "technology": "Kubernetes",
+      "ring": "Trial",
+      "mention_count": 2,
+      "primary_video": {
+        "video_id": "F7iJutpo568",
+        "title": "Taming Observability at Scale in a Multi-Cluster Kubernetes Platform at Bloom... Joe Nathan Abellard",
+        "duration_seconds": 1464
+      },
+      "sources": [
+        {
+          "video_id": "F7iJutpo568",
+          "title": "Taming Observability at Scale in a Multi-Cluster Kubernetes Platform at Bloom... Joe Nathan Abellard",
+          "duration_seconds": 1464,
+          "evidence": "lti-Cluster Kubernetes Platform at Bloom... Joe Nathan Abellar"
+        },
+        {
+          "video_id": "c22ZLKgYI84",
+          "title": "Don't Let Users Find Your Outages: Synthetic Monitoring for Kubernetes Platforms - Kate Agnew",
+          "duration_seconds": 1404,
+          "evidence": "itoring for Kubernetes Platforms - Kate Agnew"
+        }
+      ]
+    },
+    {
+      "technology": "Model Context Protocol (MCP)",
+      "ring": "Trial",
+      "mention_count": 2,
+      "primary_video": {
+        "video_id": "SIg81hkHZXQ",
+        "title": "Exploring Observability with MCP Servers - Tiffany Jernigan, Grafana Labs",
+        "duration_seconds": 1553
+      },
+      "sources": [
+        {
+          "video_id": "SIg81hkHZXQ",
+          "title": "Exploring Observability with MCP Servers - Tiffany Jernigan, Grafana Labs",
+          "duration_seconds": 1553,
+          "evidence": "bility with MCP Servers - Tiffany Jernigan, Grafana Lab"
+        },
+        {
+          "video_id": "p9GQdhVdVWQ",
+          "title": "From Data Dumps To Smart Context: Building MCP Servers That AI Can Actually Use - Thomas Johnson",
+          "duration_seconds": 1229,
+          "evidence": "t: Building MCP Servers That AI Can Actually Use - Thom"
+        }
+      ]
+    },
+    {
+      "technology": "OpenSearch",
+      "ring": "Assess",
+      "mention_count": 1,
+      "primary_video": {
+        "video_id": "LuKaV3WeNlk",
+        "title": "Sponsored Keynote: OpenSearch - See Everything: Open Observability for Agentic AI - Anirudha Jadhav",
+        "duration_seconds": 345
+      },
+      "sources": [
+        {
+          "video_id": "LuKaV3WeNlk",
+          "title": "Sponsored Keynote: OpenSearch - See Everything: Open Observability for Agentic AI - Anirudha Jadhav",
+          "duration_seconds": 345,
+          "evidence": "ed Keynote: OpenSearch - See Everything: Open Observability fo"
+        }
+      ]
+    },
+    {
+      "technology": "OpenTelemetry",
+      "ring": "Adopt",
+      "mention_count": 8,
+      "primary_video": {
+        "video_id": "kSWfRsnghaE",
+        "title": "Keynote: Tracing the Agent's Mind: Extending OpenTelemetry for Deep... Mustafa Dayıoğlu & Zeyno Dodd",
+        "duration_seconds": 1611
+      },
+      "sources": [
+        {
+          "video_id": "xzy7cfIl32g",
+          "title": "Keynote: 10 Million Spans Per Second: Lessons From Scaling OpenTelemetry at Reddit - Trevor Riles",
+          "duration_seconds": 1586,
+          "evidence": "rom Scaling OpenTelemetry at Reddit - Trevor Riles"
+        },
+        {
+          "video_id": "kSWfRsnghaE",
+          "title": "Keynote: Tracing the Agent's Mind: Extending OpenTelemetry for Deep... Mustafa Dayıoğlu & Zeyno Dodd",
+          "duration_seconds": 1611,
+          "evidence": ": Extending OpenTelemetry for Deep... Mustafa Dayıoğlu & Zeyno Do"
+        },
+        {
+          "video_id": "1GaoQcGk57M",
+          "title": "Observing the Observers: Bringing OpenTelemetry to Autonomous AI Agents - Abdel Fane, OpenA2A",
+          "duration_seconds": 1350,
+          "evidence": "s: Bringing OpenTelemetry to Autonomous AI Agents - Abdel Fane, O"
+        },
+        {
+          "video_id": "qoB9yX7CjeA",
+          "title": "Policy as Code Meets OpenTelemetry: The Next Frontier of Observability - Christopher Voisey",
+          "duration_seconds": 1481,
+          "evidence": "Code Meets OpenTelemetry: The Next Frontier of Observability - C"
+        },
+        {
+          "video_id": "x5hHEg-kyio",
+          "title": "Lightning Talk: From Collector To Terminal: A Better Way To See Your OpenTelemetry Logs - Jon Reeve",
+          "duration_seconds": 564,
+          "evidence": "To See Your OpenTelemetry Logs - Jon Reeve"
+        },
+        {
+          "video_id": "289rsaYNLOA",
+          "title": "OpenTelemetry GenAI in Practice: What the Spec Says Vs. What You Actually See - Zach Groves, Datadog",
+          "duration_seconds": 1434,
+          "evidence": "OpenTelemetry GenAI in Practice: What the Spec Says V"
+        },
+        {
+          "video_id": "98Dqad6qyL8",
+          "title": "Taming Tenancy, Cost and Architecture at Collibra Through OpenTelemetry and Our... Alex Van Boxel",
+          "duration_seconds": 1454,
+          "evidence": "bra Through OpenTelemetry and Our... Alex Van Boxel"
+        },
+        {
+          "video_id": "OcdR9gVFgo4",
+          "title": "Lightning Talk: Beyond Billions: Operating Thanos, Prometheus & OpenTelemetry... Narendra Sanikommu",
+          "duration_seconds": 662,
+          "evidence": "rometheus & OpenTelemetry... Narendra Sanikommu"
+        }
+      ]
+    },
+    {
+      "technology": "Prometheus",
+      "ring": "Trial",
+      "mention_count": 2,
+      "primary_video": {
+        "video_id": "1YQwMTGIjks",
+        "title": "One Pane to Rule Them All: Uniting the Prometheus Community with O... Anirudha Jadhav & Kevin Fallis",
+        "duration_seconds": 1456
+      },
+      "sources": [
+        {
+          "video_id": "1YQwMTGIjks",
+          "title": "One Pane to Rule Them All: Uniting the Prometheus Community with O... Anirudha Jadhav & Kevin Fallis",
+          "duration_seconds": 1456,
+          "evidence": "Uniting the Prometheus Community with O... Anirudha Jadhav & K"
+        },
+        {
+          "video_id": "OcdR9gVFgo4",
+          "title": "Lightning Talk: Beyond Billions: Operating Thanos, Prometheus & OpenTelemetry... Narendra Sanikommu",
+          "duration_seconds": 662,
+          "evidence": "ing Thanos, Prometheus & OpenTelemetry... Narendra Sanikommu"
+        }
+      ]
+    },
+    {
+      "technology": "Synthetic Monitoring",
+      "ring": "Trial",
+      "mention_count": 2,
+      "primary_video": {
+        "video_id": "c22ZLKgYI84",
+        "title": "Don't Let Users Find Your Outages: Synthetic Monitoring for Kubernetes Platforms - Kate Agnew",
+        "duration_seconds": 1404
+      },
+      "sources": [
+        {
+          "video_id": "tHBH4pkcUz8",
+          "title": "Secure by Design: Rethinking Test Credentials for Synthetic Monitoring - Katie Kodes, Katie Kodes",
+          "duration_seconds": 1354,
+          "evidence": "entials for Synthetic Monitoring - Katie Kodes, Katie Kodes"
+        },
+        {
+          "video_id": "c22ZLKgYI84",
+          "title": "Don't Let Users Find Your Outages: Synthetic Monitoring for Kubernetes Platforms - Kate Agnew",
+          "duration_seconds": 1404,
+          "evidence": "ur Outages: Synthetic Monitoring for Kubernetes Platforms - Kate Agnew"
+        }
+      ]
+    },
+    {
+      "technology": "Thanos",
+      "ring": "Assess",
+      "mention_count": 1,
+      "primary_video": {
+        "video_id": "OcdR9gVFgo4",
+        "title": "Lightning Talk: Beyond Billions: Operating Thanos, Prometheus & OpenTelemetry... Narendra Sanikommu",
+        "duration_seconds": 662
+      },
+      "sources": [
+        {
+          "video_id": "OcdR9gVFgo4",
+          "title": "Lightning Talk: Beyond Billions: Operating Thanos, Prometheus & OpenTelemetry... Narendra Sanikommu",
+          "duration_seconds": 662,
+          "evidence": ": Operating Thanos, Prometheus & OpenTelemetry... Narendra"
+        }
+      ]
+    },
+    {
+      "technology": "eBPF",
+      "ring": "Assess",
+      "mention_count": 1,
+      "primary_video": {
+        "video_id": "GQBbUniJltg",
+        "title": "eBPF Application Instrumentation for Java: Challenges, Design, and Real... Endre Sara & Stephen Lang",
+        "duration_seconds": 1463
+      },
+      "sources": [
+        {
+          "video_id": "GQBbUniJltg",
+          "title": "eBPF Application Instrumentation for Java: Challenges, Design, and Real... Endre Sara & Stephen Lang",
+          "duration_seconds": 1463,
+          "evidence": "eBPF Application Instrumentation for Java: C"
+        }
+      ]
+    }
+  ]
+}
