@@ -1,0 +1,43 @@
+{
+  "cycle": "OBS-RADAR-Q3-26",
+  "snapshot": "2026-08-30 (partial review: first 30 recordings only)",
+  "note": "This snapshot was produced from the first 30 recordings of the playlist before the tail recordings were indexed. Counts and primaries are valid for that prefix only and are stale for the full playlist. It is the archived grading artifact, not the source of truth.",
+  "entries": [
+    {
+      "technology": "Datadog",
+      "ring": "Trial",
+      "mention_count": 2,
+      "primary_video_id": "e7_C9Q1yf48"
+    },
+    {
+      "technology": "Model Context Protocol (MCP)",
+      "ring": "Trial",
+      "mention_count": 2,
+      "primary_video_id": "SIg81hkHZXQ"
+    },
+    {
+      "technology": "OpenSearch",
+      "ring": "Assess",
+      "mention_count": 1,
+      "primary_video_id": "LuKaV3WeNlk"
+    },
+    {
+      "technology": "OpenTelemetry",
+      "ring": "Trial",
+      "mention_count": 3,
+      "primary_video_id": "kSWfRsnghaE"
+    },
+    {
+      "technology": "Prometheus",
+      "ring": "Assess",
+      "mention_count": 1,
+      "primary_video_id": "1YQwMTGIjks"
+    },
+    {
+      "technology": "eBPF",
+      "ring": "Assess",
+      "mention_count": 1,
+      "primary_video_id": "GQBbUniJltg"
+    }
+  ]
+}
