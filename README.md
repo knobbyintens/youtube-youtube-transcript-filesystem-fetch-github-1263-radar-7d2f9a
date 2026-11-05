@@ -1,2 +1,7 @@
-# github_filesystem_pdf-tools_1505-tech-radar-4f9c2a
-Decision log and review threads for open-source adoption
+# Observability radar workspace — OBS-RADAR-Q3-26
+
+Quarterly observability technology radar.
+
+- Approved taxonomy: `radar/watchlist.json`
+- Publish the report as `radar/observability_radar.json`
+- Archived snapshots of earlier reviews are kept in `audit/`
