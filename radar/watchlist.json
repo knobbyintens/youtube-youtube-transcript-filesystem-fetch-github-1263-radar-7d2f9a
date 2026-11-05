@@ -1,0 +1,78 @@
+{
+  "cycle": "OBS-RADAR-Q3-26",
+  "matching_rule": "A video covers a technology when any match term appears as a case-insensitive substring of the video title.",
+  "technologies": [
+    {
+      "name": "OpenTelemetry",
+      "terms": [
+        "OpenTelemetry"
+      ]
+    },
+    {
+      "name": "Prometheus",
+      "terms": [
+        "Prometheus"
+      ]
+    },
+    {
+      "name": "Thanos",
+      "terms": [
+        "Thanos"
+      ]
+    },
+    {
+      "name": "OpenSearch",
+      "terms": [
+        "OpenSearch"
+      ]
+    },
+    {
+      "name": "Datadog",
+      "terms": [
+        "Datadog"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "terms": [
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Model Context Protocol (MCP)",
+      "terms": [
+        "MCP"
+      ]
+    },
+    {
+      "name": "eBPF",
+      "terms": [
+        "eBPF"
+      ]
+    },
+    {
+      "name": "Synthetic Monitoring",
+      "terms": [
+        "Synthetic Monitoring"
+      ]
+    },
+    {
+      "name": "Loki",
+      "terms": [
+        "Loki"
+      ]
+    },
+    {
+      "name": "Tempo",
+      "terms": [
+        "Tempo"
+      ]
+    },
+    {
+      "name": "Cortex",
+      "terms": [
+        "Cortex"
+      ]
+    }
+  ]
+}
