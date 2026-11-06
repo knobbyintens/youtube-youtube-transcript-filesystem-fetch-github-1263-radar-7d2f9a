@@ -16,49 +16,49 @@
           "video_id": "xzy7cfIl32g",
           "title": "Keynote: 10 Million Spans Per Second: Lessons From Scaling OpenTelemetry at Reddit - Trevor Riles",
           "duration_seconds": 1586,
-          "evidence": "OpenTelemetry"
+          "evidence": "Lessons From Scaling OpenTelemetry at Reddit - Trevor Riles"
         },
         {
           "video_id": "kSWfRsnghaE",
           "title": "Keynote: Tracing the Agent's Mind: Extending OpenTelemetry for Deep... Mustafa Dayıoğlu & Zeyno Dodd",
           "duration_seconds": 1611,
-          "evidence": "OpenTelemetry"
+          "evidence": "Agent's Mind: Extending OpenTelemetry for Deep... Mustafa Dayıoğlu"
         },
         {
           "video_id": "1GaoQcGk57M",
           "title": "Observing the Observers: Bringing OpenTelemetry to Autonomous AI Agents - Abdel Fane, OpenA2A",
           "duration_seconds": 1350,
-          "evidence": "OpenTelemetry"
+          "evidence": "Observers: Bringing OpenTelemetry to Autonomous AI Agents"
         },
         {
           "video_id": "qoB9yX7CjeA",
           "title": "Policy as Code Meets OpenTelemetry: The Next Frontier of Observability - Christopher Voisey",
           "duration_seconds": 1481,
-          "evidence": "OpenTelemetry"
+          "evidence": "Policy as Code Meets OpenTelemetry: The Next Frontier of"
         },
         {
           "video_id": "x5hHEg-kyio",
           "title": "Lightning Talk: From Collector To Terminal: A Better Way To See Your OpenTelemetry Logs - Jon Reeve",
           "duration_seconds": 564,
-          "evidence": "OpenTelemetry"
+          "evidence": "Better Way To See Your OpenTelemetry Logs - Jon Reeve"
         },
         {
           "video_id": "289rsaYNLOA",
           "title": "OpenTelemetry GenAI in Practice: What the Spec Says Vs. What You Actually See - Zach Groves, Datadog",
           "duration_seconds": 1434,
-          "evidence": "OpenTelemetry"
+          "evidence": "OpenTelemetry GenAI in Practice: What"
         },
         {
           "video_id": "98Dqad6qyL8",
           "title": "Taming Tenancy, Cost and Architecture at Collibra Through OpenTelemetry and Our... Alex Van Boxel",
           "duration_seconds": 1454,
-          "evidence": "OpenTelemetry"
+          "evidence": "at Collibra Through OpenTelemetry and Our... Alex Van Boxel"
         },
         {
           "video_id": "OcdR9gVFgo4",
           "title": "Lightning Talk: Beyond Billions: Operating Thanos, Prometheus & OpenTelemetry... Narendra Sanikommu",
           "duration_seconds": 662,
-          "evidence": "OpenTelemetry"
+          "evidence": "Thanos, Prometheus & OpenTelemetry... Narendra Sanikommu"
         }
       ]
     },
@@ -76,13 +76,13 @@
           "video_id": "1YQwMTGIjks",
           "title": "One Pane to Rule Them All: Uniting the Prometheus Community with O... Anirudha Jadhav & Kevin Fallis",
           "duration_seconds": 1456,
-          "evidence": "Prometheus"
+          "evidence": "Them All: Uniting the Prometheus Community with O... Anirudha"
         },
         {
           "video_id": "OcdR9gVFgo4",
           "title": "Lightning Talk: Beyond Billions: Operating Thanos, Prometheus & OpenTelemetry... Narendra Sanikommu",
           "duration_seconds": 662,
-          "evidence": "Prometheus"
+          "evidence": "Operating Thanos, Prometheus & OpenTelemetry... Narendra"
         }
       ]
     },
@@ -100,7 +100,7 @@
           "video_id": "OcdR9gVFgo4",
           "title": "Lightning Talk: Beyond Billions: Operating Thanos, Prometheus & OpenTelemetry... Narendra Sanikommu",
           "duration_seconds": 662,
-          "evidence": "Thanos"
+          "evidence": "Billions: Operating Thanos, Prometheus & OpenTelemetry"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "video_id": "LuKaV3WeNlk",
           "title": "Sponsored Keynote: OpenSearch - See Everything: Open Observability for Agentic AI - Anirudha Jadhav",
           "duration_seconds": 345,
-          "evidence": "OpenSearch"
+          "evidence": "Sponsored Keynote: OpenSearch - See Everything: Open"
         }
       ]
     },
@@ -136,19 +136,19 @@
           "video_id": "vI9qbSkpdZM",
           "title": "Sponsored Keynote: Datadog - Every Byte Counts: How Protocol Design Shapes the Cost... Amanda Sopkin",
           "duration_seconds": 390,
-          "evidence": "Datadog"
+          "evidence": "Sponsored Keynote: Datadog - Every Byte Counts: How"
         },
         {
           "video_id": "e7_C9Q1yf48",
           "title": "Show Me the Receipts: A Forensic Hunt for Observability - Mostafa Radwan, Datadog",
           "duration_seconds": 1145,
-          "evidence": "Datadog"
+          "evidence": "- Mostafa Radwan, Datadog"
         },
         {
           "video_id": "289rsaYNLOA",
           "title": "OpenTelemetry GenAI in Practice: What the Spec Says Vs. What You Actually See - Zach Groves, Datadog",
           "duration_seconds": 1434,
-          "evidence": "Datadog"
+          "evidence": "See - Zach Groves, Datadog"
         }
       ]
     },
@@ -166,13 +166,13 @@
           "video_id": "F7iJutpo568",
           "title": "Taming Observability at Scale in a Multi-Cluster Kubernetes Platform at Bloom... Joe Nathan Abellard",
           "duration_seconds": 1464,
-          "evidence": "Kubernetes"
+          "evidence": "in a Multi-Cluster Kubernetes Platform at Bloom... Joe"
         },
         {
           "video_id": "c22ZLKgYI84",
           "title": "Don't Let Users Find Your Outages: Synthetic Monitoring for Kubernetes Platforms - Kate Agnew",
           "duration_seconds": 1404,
-          "evidence": "Kubernetes"
+          "evidence": "Synthetic Monitoring for Kubernetes Platforms - Kate Agnew"
         }
       ]
     },
@@ -190,13 +190,13 @@
           "video_id": "SIg81hkHZXQ",
           "title": "Exploring Observability with MCP Servers - Tiffany Jernigan, Grafana Labs",
           "duration_seconds": 1553,
-          "evidence": "MCP"
+          "evidence": "Observability with MCP Servers - Tiffany Jernigan"
         },
         {
           "video_id": "p9GQdhVdVWQ",
           "title": "From Data Dumps To Smart Context: Building MCP Servers That AI Can Actually Use - Thomas Johnson",
           "duration_seconds": 1229,
-          "evidence": "MCP"
+          "evidence": "Context: Building MCP Servers That AI Can Actually"
         }
       ]
     },
@@ -214,7 +214,7 @@
           "video_id": "GQBbUniJltg",
           "title": "eBPF Application Instrumentation for Java: Challenges, Design, and Real... Endre Sara & Stephen Lang",
           "duration_seconds": 1463,
-          "evidence": "eBPF"
+          "evidence": "eBPF Application Instrumentation"
         }
       ]
     },
@@ -232,13 +232,13 @@
           "video_id": "tHBH4pkcUz8",
           "title": "Secure by Design: Rethinking Test Credentials for Synthetic Monitoring - Katie Kodes, Katie Kodes",
           "duration_seconds": 1354,
-          "evidence": "Synthetic Monitoring"
+          "evidence": "Test Credentials for Synthetic Monitoring - Katie Kodes, Katie Kodes"
         },
         {
           "video_id": "c22ZLKgYI84",
           "title": "Don't Let Users Find Your Outages: Synthetic Monitoring for Kubernetes Platforms - Kate Agnew",
           "duration_seconds": 1404,
-          "evidence": "Synthetic Monitoring"
+          "evidence": "Find Your Outages: Synthetic Monitoring for Kubernetes Platforms"
         }
       ]
     }
